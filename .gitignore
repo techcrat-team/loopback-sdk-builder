@@ -1,0 +1,48 @@
+.idea
+.project
+.DS_Store
+*.sublime*
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.swp
+*.swo
+*package-lock.json
+node_modules
+bower_component
+checkstyle.xml
+.loopbackrc
+temp
+
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+dist
+tmp
+
+# dependencies
+node_modules
+bower_components
+
+# IDEs and editors
+.idea
+
+# misc
+.sass-cache
+connect.lock
+coverage/*
+libpeerconnection.log
+npm-debug.log
+testem.log
+typings
+
+
+#System Files
+.DS_Store
+
+#Generated test code
+tests/ng2web/src/app/shared/sdk
+tests/react-web/app/shared/sdk
